@@ -1,10 +1,10 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Bridging+Full-Stack+Development+%26+Machine+Learning+🚀;Exploring+Cyber+Security,+Deep+Learning,+NLP,+and+Computer+Vision+🧠;Transforming+ideas+into+secure+%26+intelligent+solutions+💡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Bridging+Full-Stack+Development+and+Machine+Learning;Exploring+Cyber+Security,+Deep+Learning,+NLP,+and+Computer+Vision;Transforming+ideas+into+secure+and+intelligent+solutions" alt="Typing SVG" />
   </a>
 
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Banner" width="50%" />
 
 # 💫 About Me
 <p align="justify">
@@ -64,4 +64,3 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 [![](https://komarev.com/ghpvc/?username=firazrajief48&icon=2&color=blue)](https://visitcount.itsvg.in)
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
