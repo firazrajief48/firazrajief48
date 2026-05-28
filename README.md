@@ -41,7 +41,6 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -57,15 +56,7 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
-<br>
-
 > "Every green square is a step closer to your dreams." 🟩 ✨
-
-<br>
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firazrajief48&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
@@ -86,4 +77,3 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 </a>
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
