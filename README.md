@@ -1,9 +1,5 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mohammed+Firaz+Rajief+Bismaka" alt="Typing SVG" />
-  </a>
-
   <img src="banner.jpg" alt="Banner" width="50%" />
 
 # 💫 About Me
@@ -41,9 +37,15 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=firazrajief48&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=firazrajief48&theme=vision-friendly-dark&hide_border=false" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake-dark.svg">
@@ -51,9 +53,13 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <img src="github-metrics.svg" alt="Productivity Chart" width="450" />
+<div align="left">
+
+> "Every green square is a step closer to your dreams." 🟩 ✨
+
 </div>
+
+<img src="github-metrics.svg" alt="Productivity Chart" width="450" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firazrajief48&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
@@ -70,7 +76,8 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=Bridging+Full-Stack+Development+and+Machine+Learning;Exploring+Cyber+Security,+Deep+Learning,+NLP,+and+Computer+Vision;Transforming+ideas+into+secure+and+intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=5000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mohammed+Firaz+Rajief+Bismaka" alt="Typing SVG" />
 </a>
 
 </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
