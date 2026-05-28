@@ -1,6 +1,5 @@
 name: Metrics
 on:
-  # Mengupdate grafik otomatis setiap hari pada jam 00:00
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
@@ -12,17 +11,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Memanggil kunci token yang baru dibuat
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Mematikan info standar agar hanya muncul grafik Radar
           base: ""
-          
-          # Pengaturan Plugin Habits (Grafik Produktivitas)
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          # Kita perpanjang pencarian datanya menjadi 30 hari
+          plugin_habits_days: 365
           plugin_habits_facts: no
-          
+          # Menginstruksikan bot untuk mengambil 200 event terakhirmu
+          plugin_habits_from: 200
           config_timezone: Asia/Jakarta
