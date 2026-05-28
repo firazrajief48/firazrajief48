@@ -19,6 +19,14 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 ![](https://streak-stats.demolab.com/?user=firazrajief48&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firazrajief48&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
