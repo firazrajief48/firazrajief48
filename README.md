@@ -51,6 +51,10 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img src="github-metrics.svg" alt="Productivity Chart" width="450" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firazrajief48&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
