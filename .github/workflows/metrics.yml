@@ -17,7 +17,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           # Kita perpanjang pencarian datanya menjadi 30 hari
-          plugin_habits_days: 365
+          plugin_habits_days: 90
           plugin_habits_facts: no
           # Menginstruksikan bot untuk mengambil 200 event terakhirmu
           plugin_habits_from: 200
