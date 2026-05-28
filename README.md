@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="banner.gif" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me
@@ -29,7 +29,7 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 ![](https://github-contributor-stats.vercel.app/api?username=firazrajief48&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=firazrajief48&icon=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=firazrajief48&icon=2&color=blue)](https://visitcount.itsvg.in)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
