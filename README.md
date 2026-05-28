@@ -43,11 +43,9 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
+  <img height="195" src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
   <img src="https://streak-stats.demolab.com/?user=firazrajief48&theme=vision-friendly-dark&hide_border=false" />
 </p>
 
