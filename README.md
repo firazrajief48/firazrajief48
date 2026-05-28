@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=5000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mohammed+Firaz+Rajief+Bismaka+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=5000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Mohammed+Firaz+Rajief+Bismaka+✨" alt="Typing SVG" />
   </a>
 
   <img src="banner.jpg" alt="Banner" width="50%" />
@@ -43,8 +43,8 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firazrajief48&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
@@ -57,11 +57,15 @@ Informatics Engineering Student at UNESA | Full-Stack Web & Mobile Developer | M
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firazrajief48/firazrajief48/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+</div>
+
+<br>
 
 > "Every green square is a step closer to your dreams." 🟩 ✨
 
-</div>
+<br>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=firazrajief48&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
